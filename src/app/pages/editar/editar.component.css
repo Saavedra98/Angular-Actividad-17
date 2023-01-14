@@ -1,0 +1,20 @@
+.container{
+    margin: 10px auto;
+    width: 40%;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.botones{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.btn-success{
+    margin-left: 60px;
+    margin-right: 20px;
+}
+
+h1{
+    text-align: center;
+}
